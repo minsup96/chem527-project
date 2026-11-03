@@ -1,8 +1,8 @@
 # 001: Write `.gitignore`
 
-- **Status:** active
-- **Created:** YYYY-MM-DD
-- **Updated:** YYYY-MM-DD
+- **Status:** done
+- **Created:** 2026-11-03
+- **Updated:** 2026-11-03
 - **Due:** 2026-11-01, before task 002
 
 ## Goal
@@ -66,4 +66,8 @@ If your data cannot be stored on GitHub, because they are too large or their lic
 
 ## Progress log
 
+- 2026-11-03: Made `.gitignore` in the top folder (first made inside `tasks/` by mistake, then moved it), set git user name and email, and committed and pushed it as `286c408`.
+- 2026-11-03: `.venv/` was not visible in `git status` after `uv sync` 
+
 ## Outcome
+`uv sync` installed 47 packages, `.gitignore` is pushed and `.venv/` is out of tracking
