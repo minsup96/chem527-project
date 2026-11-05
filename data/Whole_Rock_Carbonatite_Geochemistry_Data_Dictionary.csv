@@ -1,0 +1,51 @@
+Table,Field,Description,Units
+Whole_Rock_Carbonatite_Geochemistry,Sample,Sample Number,not applicable
+Whole_Rock_Carbonatite_Geochemistry,Description,Lithology description of sample,not applicable
+Whole_Rock_Carbonatite_Geochemistry,Latitude,Latitude,decimal degrees
+Whole_Rock_Carbonatite_Geochemistry,Longitude,Longitude,decimal degrees
+Whole_Rock_Carbonatite_Geochemistry,Datum,Datum used for geographic projection,not applicable
+Whole_Rock_Carbonatite_Geochemistry,SiO2_wtpct,"Silicon, as oxide; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Whole_Rock_Carbonatite_Geochemistry,TiO2_wtpct,"Titanium, as oxide; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Whole_Rock_Carbonatite_Geochemistry,Al2O3_wtpct,"Aluminum, as oxide",weight percent
+Whole_Rock_Carbonatite_Geochemistry,FeO_wtpct,"Iron, as oxide",weight percent
+Whole_Rock_Carbonatite_Geochemistry,MnO_wtpct,"Manganese, as oxide",weight percent
+Whole_Rock_Carbonatite_Geochemistry,MgO_wtpct,"Magnesium, as oxide",weight percent
+Whole_Rock_Carbonatite_Geochemistry,CaO_wtpct,"Calcium, as oxide",weight percent
+Whole_Rock_Carbonatite_Geochemistry,BaO_wtpct,"Barium, as oxide",weight percent
+Whole_Rock_Carbonatite_Geochemistry,SrO_wtpct,"Strontium, as oxide; analyses ending in .11111 indicate determinations exceeding the maximum limit of the analytical method",weight percent
+Whole_Rock_Carbonatite_Geochemistry,Na2O_wtpct,"Sodium, as oxide; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Whole_Rock_Carbonatite_Geochemistry,K2O_wtpct,"Potassium, as oxide; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Whole_Rock_Carbonatite_Geochemistry,P2O5_wtpct,"Phosphorus, as oxide",weight percent
+Whole_Rock_Carbonatite_Geochemistry,LOI_wtpct,Loss on ignition,weight percent
+Whole_Rock_Carbonatite_Geochemistry,F_wtpct,Fluorine,weight percent
+Whole_Rock_Carbonatite_Geochemistry,Cl_wtpct,Chlorine,weight percent
+Whole_Rock_Carbonatite_Geochemistry,H2O_wtpct,Essential and nonessential water,weight percent
+Whole_Rock_Carbonatite_Geochemistry,CO2_wtpct,Carbon dioxide,weight percent
+Whole_Rock_Carbonatite_Geochemistry,Sc_ppm,Scandium; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_Carbonatite_Geochemistry,V_ppm,Vanadium; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Co_ppm,Cobalt,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Cu_ppm,Copper; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Zn_ppm,Zinc,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Ga_ppm,Gallium; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Rb_ppm,Rubidium; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Y_ppm,Yttrium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Zr_ppm,Zirconium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Nb_ppm,Niobium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,La_wtpct,Lanthanum,weight percent
+Whole_Rock_Carbonatite_Geochemistry,Ce_wtpct,Cerium,weight percent
+Whole_Rock_Carbonatite_Geochemistry,Pr_ppm,Praesodymium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Nd_ppm,Neodymium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Sm_ppm,Samarium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Eu_ppm,Europium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Gd_ppm,Gadolinium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Tb_ppm,Terbium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Dy_ppm,Dysprosium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Ho_ppm,Holmium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Er_ppm,Erbium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Tm_ppm,Thulium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Yb_ppm,Ytterbium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Lu_ppm,Lutetium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Ta_ppm,Tantalum,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Pb_ppm,Lead,parts per million
+Whole_Rock_Carbonatite_Geochemistry,Th_ppm,Thorium,parts per million
+Whole_Rock_Carbonatite_Geochemistry,U_ppm,Uranium,parts per million

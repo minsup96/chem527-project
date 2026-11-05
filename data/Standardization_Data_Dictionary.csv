@@ -1,0 +1,242 @@
+Table,Field,Description,Units
+EMPA_Apatite_Standards,Sample,Reference material identification,NA
+EMPA_Apatite_Standards,Ce_wtpct,Cerium,weight percent
+EMPA_Apatite_Standards,Mn_wtpct,Manganese; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Apatite_Standards,Ca_wtpct,Calcium,weight percent
+EMPA_Apatite_Standards,Sr_wtpct,Strontium,weight percent
+EMPA_Apatite_Standards,Ba_wtpct,Barium; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Apatite_Standards,Na_wtpct,Sodium,weight percent
+EMPA_Apatite_Standards,P_wtpct,Phosphorus,weight percent
+EMPA_Apatite_Standards,S_wtpct,Sulfur,weight percent
+EMPA_Apatite_Standards,Cl_wtpct,Chlorine; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Apatite_Standards,F_wtpct,Fluorine,weight percent
+EMPA_Apatite_Standards,O_wtpct,"Oxygen, calculated",weight percent
+EMPA_Apatite_Standards,Total_wtpct,"Sum of analyses from the electron microprobe, given as elemental analyses",weight percent
+EMPA_Apatite_Standards,Ce_errpct,Error of cerium analysis,percent
+EMPA_Apatite_Standards,Mn_errpct,Error of manganese analysis,percent
+EMPA_Apatite_Standards,Ca_errpct,Error of calcium analysis,percent
+EMPA_Apatite_Standards,Sr_errpct,Error of strontium analysis,percent
+EMPA_Apatite_Standards,Ba_errpct,Error of barium analysis,percent
+EMPA_Apatite_Standards,Na_errpct,Error of sodium analysis,percent
+EMPA_Apatite_Standards,P_errpct,Error of phosphorus analysis,percent
+EMPA_Apatite_Standards,S_errpct,Error of sulfur analysis,percent
+EMPA_Apatite_Standards,Cl_errpct,Error of chlorine analysis,percent
+EMPA_Apatite_Standards,F_errpct,Error of fluorine analysis,percent
+EMPA_Apatite_Standards,Ce_TDI,Time-dependent intensity correction for cerium,percent
+EMPA_Apatite_Standards,Ca_TDI,Time-dependent intensity correction for calcium,percent
+EMPA_Apatite_Standards,S_TDI,Time-dependent intensity correction for sulfur,percent
+EMPA_Apatite_Standards,Cl_TDI,Time-dependent intensity correction for chlorine,percent
+EMPA_Apatite_Standards,F_TDI,Time-dependent intensity correction for fluorine,percent
+EMPA_Monazite_Standards,Sample,Reference material identification,NA
+EMPA_Monazite_Standards,Si_wtpct,Silicon,weight percent
+EMPA_Monazite_Standards,Al_wtpct,Aluminum; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,As_wtpct,Arsenic; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,Y_wtpct,Yttrium,weight percent
+EMPA_Monazite_Standards,P_wtpct,Phosphorus,weight percent
+EMPA_Monazite_Standards,Pb_wtpct,Lead; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,Th_wtpct,Thorium,weight percent
+EMPA_Monazite_Standards,U_wtpct,Uranium; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,Sc_wtpct,Scandium; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,Pr_wtpct,Praseodymium,weight percent
+EMPA_Monazite_Standards,Eu_wtpct,Europium; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,Tb_wtpct,Terbium,weight percent
+EMPA_Monazite_Standards,Ho_wtpct,Holmium; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,Tm_wtpct,Thulium; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,Sm_wtpct,Samarium,weight percent
+EMPA_Monazite_Standards,Gd_wtpct,Gadolinium,weight percent
+EMPA_Monazite_Standards,Dy_wtpct,Dysprosium,weight percent
+EMPA_Monazite_Standards,Er_wtpct,Erbium,weight percent
+EMPA_Monazite_Standards,Lu_wtpct,Lutetium; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,La_wtpct,Lanthanum,weight percent
+EMPA_Monazite_Standards,Ce_wtpct,Cerium,weight percent
+EMPA_Monazite_Standards,Nd_wtpct,Neodymium,weight percent
+EMPA_Monazite_Standards,Yb_wtpct,Ytterbium; blank indicates determinations less than the detection limit of the analytical method,weight percent
+EMPA_Monazite_Standards,Ca_wtpct,Calcium,weight percent
+EMPA_Monazite_Standards,O_wtpct,"Oxygen, calculated",weight percent
+EMPA_Monazite_Standards,Total_wtpct,"Sum of analyses from the electron microprobe, given as elemental analyses",weight percent
+EMPA_Monazite_Standards,Si_errpct,Error of silicon analysis,percent
+EMPA_Monazite_Standards,Al_errpct,Error of aluminum analysis,percent
+EMPA_Monazite_Standards,As_errpct,Error of arsenic analysis,percent
+EMPA_Monazite_Standards,Y_errpct,Error of yttrium analysis,percent
+EMPA_Monazite_Standards,P_errpct,Error of phosphorus analysis,percent
+EMPA_Monazite_Standards,Pb_errpct,Error of lead analysis,percent
+EMPA_Monazite_Standards,Th_errpct,Error of thorium analysis,percent
+EMPA_Monazite_Standards,U_errpct,Error of uranium analysis,percent
+EMPA_Monazite_Standards,Sc_errpct,Error of scandium analysis,percent
+EMPA_Monazite_Standards,Pr_errpct,Error of praseodymium analysis,percent
+EMPA_Monazite_Standards,Eu_errpct,Error of europium analysis,percent
+EMPA_Monazite_Standards,Tb_errpct,Error of terbium analysis,percent
+EMPA_Monazite_Standards,Ho_errpct,Error of holmium analysis,percent
+EMPA_Monazite_Standards,Tm_errpct,Error of thulium analysis,percent
+EMPA_Monazite_Standards,Sm_errpct,Error of samarium analysis,percent
+EMPA_Monazite_Standards,Gd_errpct,Error of gadolinium analysis,percent
+EMPA_Monazite_Standards,Dy_errpct,Error of dysprosium analysis,percent
+EMPA_Monazite_Standards,Er_errpct,Error of erbium analysis,percent
+EMPA_Monazite_Standards,Lu_errpct,Error of lutetium analysis,percent
+EMPA_Monazite_Standards,La_errpct,Error of lanthanum analysis,percent
+EMPA_Monazite_Standards,Ce_errpct,Error of cerium analysis,percent
+EMPA_Monazite_Standards,Nd_errpct,Error of neodymium analysis,percent
+EMPA_Monazite_Standards,Yb_errpct,Error of ytterbium analysis,percent
+EMPA_Monazite_Standards,Ca_errpct,Error of calcium analysis,percent
+LAICPMS_Apatite_Standards,Sample,Reference material identification,NA
+LAICPMS_Apatite_Standards,Na_ppm,Sodium,parts per million
+LAICPMS_Apatite_Standards,Mg_ppm,Magnesium,parts per million
+LAICPMS_Apatite_Standards,Al_ppm,Aluminum; blank indicates determinations less than the detection limit of the analytical method,parts per million
+LAICPMS_Apatite_Standards,Si_ppm,Silicon,parts per million
+LAICPMS_Apatite_Standards,P_ppm,Phosphorus; blank indicates Durango apatite was used to calibrate phosphorus and is not reported,parts per million
+LAICPMS_Apatite_Standards,Ca_ppm,Calcium,parts per million
+LAICPMS_Apatite_Standards,Ti_ppm,Titanium;  blank indicates determinations less than the detection limit of the analytical method,parts per million
+LAICPMS_Apatite_Standards,V_ppm,Vanadium,parts per million
+LAICPMS_Apatite_Standards,Cr_ppm,Chromium;  blank indicates determinations less than the detection limit of the analytical method,parts per million
+LAICPMS_Apatite_Standards,Mn_ppm,Manganese,parts per million
+LAICPMS_Apatite_Standards,Fe_ppm,Iron,parts per million
+LAICPMS_Apatite_Standards,As_ppm,Arsenic; blank indicates determinations less than the detection limit of the analytical method,parts per million
+LAICPMS_Apatite_Standards,Rb_ppm,Rubidium; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,Sr_ppm,Strontium,parts per million
+LAICPMS_Apatite_Standards,Y_ppm,Yttrium,parts per million
+LAICPMS_Apatite_Standards,Zr_ppm,Zirconium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,Nb_ppm,Niobium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,Ba_ppm,Barium,parts per million
+LAICPMS_Apatite_Standards,La_ppm,Lanthanum,parts per million
+LAICPMS_Apatite_Standards,Ce_ppm,Cerium,parts per million
+LAICPMS_Apatite_Standards,Pr_ppm,Praseodymium,parts per million
+LAICPMS_Apatite_Standards,Nd_ppm,Neodymium,parts per million
+LAICPMS_Apatite_Standards,Sm_ppm,Samarium,parts per million
+LAICPMS_Apatite_Standards,Eu_ppm,Europium,parts per million
+LAICPMS_Apatite_Standards,Gd_ppm,Gadolinium,parts per million
+LAICPMS_Apatite_Standards,Tb_ppm,Terbium,parts per million
+LAICPMS_Apatite_Standards,Dy_ppm,Dysprosium,parts per million
+LAICPMS_Apatite_Standards,Ho_ppm,Holmium,parts per million
+LAICPMS_Apatite_Standards,Er_ppm,Erbium,parts per million
+LAICPMS_Apatite_Standards,Tm_ppm,Thulium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,Yb_ppm,Ytterbium,parts per million
+LAICPMS_Apatite_Standards,Lu_ppm,Lutetium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,Hf_ppm,Hafnium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,Ta_ppm,Tantalum; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,W_ppm,Tungsten; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,206Pb_ppm,Lead-206; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,207Pb_ppm,Lead-207; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,208Pb_ppm,Lead-208; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,Th_ppm,Thorium,parts per million
+LAICPMS_Apatite_Standards,U_ppm,Uranium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Apatite_Standards,Na_errpct,Error of sodium analysis,percent
+LAICPMS_Apatite_Standards,Mg_errpct,Error of magnesium analysis,percent
+LAICPMS_Apatite_Standards,Al_errpct,Error of aluminum analysis,percent
+LAICPMS_Apatite_Standards,Si_errpct,Error of silicon analysis,percent
+LAICPMS_Apatite_Standards,P_errpct,Error of phosphorus analysis,percent
+LAICPMS_Apatite_Standards,Ca_errpct,Error of calcium analysis,percent
+LAICPMS_Apatite_Standards,Ti_errpct,Error of titanium analysis,percent
+LAICPMS_Apatite_Standards,V_errpct,Error of vanadium analysis,percent
+LAICPMS_Apatite_Standards,Cr_errpct,Error of chromium analysis,percent
+LAICPMS_Apatite_Standards,Mn_errpct,Error of manganese analysis,percent
+LAICPMS_Apatite_Standards,Fe_errpct,Error of iron analysis,percent
+LAICPMS_Apatite_Standards,As_errpct,Error of arsenic analysis,percent
+LAICPMS_Apatite_Standards,Rb_errpct,Error of rubidium analysis,percent
+LAICPMS_Apatite_Standards,Sr_errpct,Error of strontium analysis,percent
+LAICPMS_Apatite_Standards,Y_errpct,Error of yttrium analysis,percent
+LAICPMS_Apatite_Standards,Zr_errpct,Error of zirconium analysis,percent
+LAICPMS_Apatite_Standards,Nb_errpct,Error of niobium analysis,percent
+LAICPMS_Apatite_Standards,Ba_errpct,Error of barium analysis,percent
+LAICPMS_Apatite_Standards,La_errpct,Error of lanthanum analysis,percent
+LAICPMS_Apatite_Standards,Ce_errpct,Error of cerium analysis,percent
+LAICPMS_Apatite_Standards,Pr_errpct,Error of praseodymium analysis,percent
+LAICPMS_Apatite_Standards,Nd_errpct,Error of neodymium analysis,percent
+LAICPMS_Apatite_Standards,Sm_errpct,Error of samarium analysis,percent
+LAICPMS_Apatite_Standards,Eu_errpct,Error of europium analysis,percent
+LAICPMS_Apatite_Standards,Gd_errpct,Error of gadolinium analysis,percent
+LAICPMS_Apatite_Standards,Tb_errpct,Error of terbium analysis,percent
+LAICPMS_Apatite_Standards,Dy_errpct,Error of dysprosium analysis,percent
+LAICPMS_Apatite_Standards,Ho_errpct,Error of holmium analysis,percent
+LAICPMS_Apatite_Standards,Er_errpct,Error of erbium analysis,percent
+LAICPMS_Apatite_Standards,Tm_errpct,Error of thulium analysis,percent
+LAICPMS_Apatite_Standards,Yb_errpct,Error of ytterbium analysis,percent
+LAICPMS_Apatite_Standards,Lu_errpct,Error of lutetium analysis,percent
+LAICPMS_Apatite_Standards,Hf_errpct,Error of hafnium analysis,percent
+LAICPMS_Apatite_Standards,Ta_errpct,Error of tantalum analysis,percent
+LAICPMS_Apatite_Standards,W_errpct,Error of tungsten analysis,percent
+LAICPMS_Apatite_Standards,206Pb_errpct,Error of lead-206 analysis,percent
+LAICPMS_Apatite_Standards,207Pb_errpct,Error of lead-207 analysis,percent
+LAICPMS_Apatite_Standards,208Pb_errpct,Error of lead-208 analysis,percent
+LAICPMS_Apatite_Standards,Th_errpct,Error of thorium analysis,percent
+LAICPMS_Apatite_Standards,U_errpct,Error of uranium analysis,percent
+LAICPMS_Monazite_Standards,Sample,Reference material identification,NA
+LAICPMS_Monazite_Standards,Na_ppm,Sodium,parts per million
+LAICPMS_Monazite_Standards,Mg_ppm,Magnesium,parts per million
+LAICPMS_Monazite_Standards,Al_ppm,Aluminum,parts per million
+LAICPMS_Monazite_Standards,Si_ppm,Silicon,parts per million
+LAICPMS_Monazite_Standards,P_ppm,Phosphorus,parts per million
+LAICPMS_Monazite_Standards,Ca_ppm,Calcium,parts per million
+LAICPMS_Monazite_Standards,Ti_ppm,Titanium,parts per million
+LAICPMS_Monazite_Standards,V_ppm,Vanadium,parts per million
+LAICPMS_Monazite_Standards,Cr_ppm,Chromium,parts per million
+LAICPMS_Monazite_Standards,Mn_ppm,Manganese,parts per million
+LAICPMS_Monazite_Standards,Fe_ppm,Iron,parts per million
+LAICPMS_Monazite_Standards,As_ppm,Arsenic; blank indicates determinations less than the detection limit of the analytical method,parts per million
+LAICPMS_Monazite_Standards,Rb_ppm,Rubidium,parts per million
+LAICPMS_Monazite_Standards,Sr_ppm,Strontium,parts per million
+LAICPMS_Monazite_Standards,Y_ppm,Yttrium,parts per million
+LAICPMS_Monazite_Standards,Zr_ppm,Zirconium,parts per million
+LAICPMS_Monazite_Standards,Nb_ppm,Niobium,parts per million
+LAICPMS_Monazite_Standards,Ba_ppm,Barium,parts per million
+LAICPMS_Monazite_Standards,La_ppm,Lanthanum,parts per million
+LAICPMS_Monazite_Standards,Ce_ppm,Cerium,parts per million
+LAICPMS_Monazite_Standards,Pr_ppm,Praseodymium,parts per million
+LAICPMS_Monazite_Standards,Nd_ppm,Neodymium,parts per million
+LAICPMS_Monazite_Standards,Sm_ppm,Samarium,parts per million
+LAICPMS_Monazite_Standards,Eu_ppm,Europium,parts per million
+LAICPMS_Monazite_Standards,Gd_ppm,Gadolinium,parts per million
+LAICPMS_Monazite_Standards,Tb_ppm,Terbium,parts per million
+LAICPMS_Monazite_Standards,Dy_ppm,Dysprosium,parts per million
+LAICPMS_Monazite_Standards,Ho_ppm,Holmium,parts per million
+LAICPMS_Monazite_Standards,Er_ppm,Erbium,parts per million
+LAICPMS_Monazite_Standards,Tm_ppm,Thulium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Monazite_Standards,Yb_ppm,Ytterbium,parts per million
+LAICPMS_Monazite_Standards,Lu_ppm,Lutetium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Monazite_Standards,Hf_ppm,Hafnium,parts per million
+LAICPMS_Monazite_Standards,Ta_ppm,Tantalum,parts per million
+LAICPMS_Monazite_Standards,W_ppm,Tungsten; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Monazite_Standards,206Pb_ppm,Lead-206; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Monazite_Standards,207Pb_ppm,Lead-207; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Monazite_Standards,208Pb_ppm,Lead-208,parts per million
+LAICPMS_Monazite_Standards,Th_ppm,Thorium,parts per million
+LAICPMS_Monazite_Standards,U_ppm,Uranium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,parts per million
+LAICPMS_Monazite_Standards,Na_errpct,Error of sodium analysis,percent
+LAICPMS_Monazite_Standards,Mg_errpct,Error of magnesium analysis,percent
+LAICPMS_Monazite_Standards,Al_errpct,Error of aluminum analysis,percent
+LAICPMS_Monazite_Standards,Si_errpct,Error of silicon analysis,percent
+LAICPMS_Monazite_Standards,P_errpct,Error of phosphorus analysis,percent
+LAICPMS_Monazite_Standards,Ca_errpct,Error of calcium analysis,percent
+LAICPMS_Monazite_Standards,Ti_errpct,Error of titanium analysis,percent
+LAICPMS_Monazite_Standards,V_errpct,Error of vanadium analysis,percent
+LAICPMS_Monazite_Standards,Cr_errpct,Error of chromium analysis,percent
+LAICPMS_Monazite_Standards,Mn_errpct,Error of manganese analysis,percent
+LAICPMS_Monazite_Standards,Fe_errpct,Error of iron analysis,percent
+LAICPMS_Monazite_Standards,As_errpct,Error of arsenic analysis,percent
+LAICPMS_Monazite_Standards,Rb_errpct,Error of rubidium analysis,percent
+LAICPMS_Monazite_Standards,Sr_errpct,Error of strontium analysis,percent
+LAICPMS_Monazite_Standards,Y_errpct,Error of yttrium analysis,percent
+LAICPMS_Monazite_Standards,Zr_errpct,Error of zirconium analysis,percent
+LAICPMS_Monazite_Standards,Nb_errpct,Error of niobium analysis,percent
+LAICPMS_Monazite_Standards,Ba_errpct,Error of barium analysis,percent
+LAICPMS_Monazite_Standards,La_errpct,Error of lanthanum analysis,percent
+LAICPMS_Monazite_Standards,Ce_errpct,Error of cerium analysis,percent
+LAICPMS_Monazite_Standards,Pr_errpct,Error of praseodymium analysis,percent
+LAICPMS_Monazite_Standards,Nd_errpct,Error of neodymium analysis,percent
+LAICPMS_Monazite_Standards,Sm_errpct,Error of samarium analysis,percent
+LAICPMS_Monazite_Standards,Eu_errpct,Error of europium analysis,percent
+LAICPMS_Monazite_Standards,Gd_errpct,Error of gadolinium analysis,percent
+LAICPMS_Monazite_Standards,Tb_errpct,Error of terbium analysis,percent
+LAICPMS_Monazite_Standards,Dy_errpct,Error of dysprosium analysis,percent
+LAICPMS_Monazite_Standards,Ho_errpct,Error of holmium analysis,percent
+LAICPMS_Monazite_Standards,Er_errpct,Error of erbium analysis,percent
+LAICPMS_Monazite_Standards,Tm_errpct,Error of thulium analysis,percent
+LAICPMS_Monazite_Standards,Yb_errpct,Error of ytterbium analysis,percent
+LAICPMS_Monazite_Standards,Lu_errpct,Error of lutetium analysis,percent
+LAICPMS_Monazite_Standards,Hf_errpct,Error of hafnium analysis,percent
+LAICPMS_Monazite_Standards,Ta_errpct,Error of tantalum analysis,percent
+LAICPMS_Monazite_Standards,W_errpct,Error of tungsten analysis,percent
+LAICPMS_Monazite_Standards,206Pb_errpct,Error of lead-206 analysis,percent
+LAICPMS_Monazite_Standards,207Pb_errpct,Error of lead-207 analysis,percent
+LAICPMS_Monazite_Standards,208Pb_errpct,Error of lead-208 analysis,percent
+LAICPMS_Monazite_Standards,Th_errpct,Error of thorium analysis,percent
+LAICPMS_Monazite_Standards,U_errpct,Error of uranium analysis,percent

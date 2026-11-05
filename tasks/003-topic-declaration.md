@@ -1,8 +1,8 @@
 # 003: Topic declaration
 
 - **Status:** active
-- **Created:** YYYY-MM-DD
-- **Updated:** YYYY-MM-DD
+- **Created:** 2026-11-05
+- **Updated:** 2026-11-05
 - **Due:** 2026-11-08, 11:59 pm
 
 ## Goal
@@ -57,5 +57,9 @@ git rev-parse HEAD
 The Canvas entry is in. Close this task after it is, with the URL you submitted in **Outcome**, and commit and push the closed task. Your mentor reads the repository at the commit you submitted, so later commits do not change what is scored.
 
 ## Progress log
+
+- 2026-11-03: Chose the USGS Mountain Pass data release (https://doi.org/10.5066/P1LGUGBG, CC0, accessed 2026-11-03) because it has data dictionaries, a companion paper, and reference-material replicates. Put the CSV files, data dictionaries and metadata in `data/` unchanged.
+- 2026-11-05: Fixed the question: in the 85 replicate analyses of reference material 7802 Apatite, does the reported `errpct` match the observed replicate scatter for each element? `data/EMPA_Apatite_Standards.csv` has 86 data rows, 85 analyses plus one `Detection Limit` row. Ce, Ca, Sr, Na, P, S and F are detected in all 85; Mn (32), Cl (5) and Ba (2) are excluded because values below the detection limit are blank, which truncates the scatter. The paper (n = 85 Wilberforce apatite) does not define `errpct` either, so the proposal tests the alternative interpretations.
+- 2026-11-05: Filled the three lines in `AGENTS.md`, made and ran `topic.ipynb`, and drafted `proposal.md`.
 
 ## Outcome

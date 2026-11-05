@@ -1,0 +1,92 @@
+Table,Field,Description,Units
+Monazite_Geochemistry,Monazite_ID,Numeric identification of spot,not applicable
+Monazite_Geochemistry,Spot_ID,"Electron microprobe analysis identification, corresponding to spot labels on monazite BSE images",not applicable
+Monazite_Geochemistry,Monazite_Analysis,Name of spot analysis,not applicable
+Monazite_Geochemistry,Monazite_Group,"Monazite group, interpreted",not applicable
+Monazite_Geochemistry,Sample,Name of sample from which analysis was obtained,not applicable
+Monazite_Geochemistry,CaO_wtpct,"Calcium, as oxide, collected by electron microprobe; 9999 indicates analytical issue",weight percent
+Monazite_Geochemistry,ThO2_wtpct,"Thorium, as oxide, collected by electron microprobe; 9999 indicates analytical issue",weight percent
+Monazite_Geochemistry,UO2_wtpct,"Uranium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,PbO_wtpct,"Lead, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Sc2O3_wtpct,"Scandium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,La2O3_wtpct,"Lanthanum, as oxide, collected by electron microprobe; 9999 indicates analytical issue",weight percent
+Monazite_Geochemistry,Ce2O3_wtpct,"Cerium, as oxide, collected by electron microprobe; 9999 indicates analytical issue",weight percent
+Monazite_Geochemistry,Pr2O3_wtpct,"Praesodymium, as oxide, collected by electron microprobe; 9999 indicates analytical issue",weight percent
+Monazite_Geochemistry,Nd2O3_wtpct,"Neodymium, as oxide, collected by electron microprobe; 9999 indicates analytical issue",weight percent
+Monazite_Geochemistry,Sm2O3_wtpct,"Samarium, as oxide, collected by electron microprobe; 9999 indicates analytical issue",weight percent
+Monazite_Geochemistry,Eu2O3_wtpct,"Europium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Gd2O3_wtpct,"Gadolinium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Tb2O3_wtpct,"Terbium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Dy2O3_wtpct,"Dysprosium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Y2O3_wtpct,"Yttrium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Ho2O3_wtpct,"Holmium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Er2O3_wtpct,"Erbium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Tm2O3_wtpct,"Thulium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Yb2O3_wtpct,"Ytterbium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Lu2O3_wtpct,"Lutetium, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,P2O5_wtpct,"Phosphorous, as oxide, collected by electron microprobe; 9999 indicates analytical issue",weight percent
+Monazite_Geochemistry,SiO2_wtpct,"Silicon, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,As2O3_wtpct,"Arsenic, as oxide, collected by electron microprobe; 9999 indicates analytical issue; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Monazite_Geochemistry,Total_wtpct,Analytical total from electron microprobe analysis; 9999 indicates analytical issue,weight percent
+Monazite_Geochemistry,Ca_apfu,Calculated stoichiometric value of calcium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Sr_apfu,Calculated stoichiometric value of strontium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Th_apfu,Calculated stoichiometric value of thorium; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,U_apfu,Calculated stoichiometric value of uranium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Pb_apfu,Calculated stoichiometric value of lead; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,La_apfu,Calculated stoichiometric value of lanthanum,atoms per formula unit
+Monazite_Geochemistry,Ce_apfu,Calculated stoichiometric value of cerium,atoms per formula unit
+Monazite_Geochemistry,Pr_apfu,Calculated stoichiometric value of praesodymium,atoms per formula unit
+Monazite_Geochemistry,Nd_apfu,Calculated stoichiometric value of neodymium,atoms per formula unit
+Monazite_Geochemistry,Sm_apfu,Calculated stoichiometric value of samarium,atoms per formula unit
+Monazite_Geochemistry,Eu_apfu,Calculated stoichiometric value of europium; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Gd_apfu,Calculated stoichiometric value of gadolinium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Tb_apfu,Calculated stoichiometric value of terbium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Dy_apfu,Calculated stoichiometric value of dysprosium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Y_apfu,Calculated stoichiometric value of yttrium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Ho_apfu,Calculated stoichiometric value of holmium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Er_apfu,Calculated stoichiometric value of erbium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Tm_apfu,Calculated stoichiometric value of thulium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Yb_apfu,Calculated stoichiometric value of ytterbium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Lu_apfu,Calculated stoichiometric value of lutetium; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Sum_Msite_apfu,Sum of atoms per formula unit for elements that occur in the M-site of monazite,atoms per formula unit
+Monazite_Geochemistry,P_apfu,Calculated stoichiometric value of phosphorous,atoms per formula unit
+Monazite_Geochemistry,Si_apfu,Calculated stoichiometric value of silicon; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,As_apfu,Calculated stoichiometric value of arsenic; blank indicates analysis used for calculation was below detection limit; 0 indicates analyses above detection but rounded to 0 as the nearest integer,atoms per formula unit
+Monazite_Geochemistry,Sum_Zsite_apfu,Sum of atoms per formula unit for elements that occur in the Z-site of monazite,atoms per formula unit
+Monazite_Geochemistry,Na_ppm,"Sodium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Monazite_Geochemistry,Mg_ppm,"Magnesium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Al_ppm,"Aluminum, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Si_ppm,"Silicon, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Ca_ppm,"Calcium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Ti_ppm,"Titanium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Monazite_Geochemistry,V_ppm,"Vanadium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Mn_ppm,"Manganese, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Fe_ppm,"Iron, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Monazite_Geochemistry,Rb_ppm,"Rubidium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Sr_ppm,"Strontium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Y_ppm,"Yttrium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Zr_ppm,"Zirconium, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Nb_ppm,"Niobium, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Ba_ppm,"Barium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Monazite_Geochemistry,La_ppm,"Lanthanum, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Ce_ppm,"Cerium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Pr_ppm,"Praesodymium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Nd_ppm,"Neodymium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Sm_ppm,"Samarium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Eu_ppm,"Europium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Gd_ppm,"Gadolinium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Tb_ppm,"Terbium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Dy_ppm,"Dysprosium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Ho_ppm,"Holmium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Er_ppm,"Erbium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Tm_ppm,"Thulium, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Yb_ppm,"Ytterbium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Lu_ppm,"Lutetium, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Hf_ppm,"Hafnium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Ta_ppm,"Tantalum, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,W_ppm,"Tungsten, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Monazite_Geochemistry,Pb_ppm,"Lead, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,Th_ppm,"Thorium, collected by LA-ICP-MS",parts per million
+Monazite_Geochemistry,U_ppm,"Uranium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Monazite_Geochemistry,Eu_EuStar,"Europium/europium (europium anomaly) =[Eu(ch)]/[Sm(ch)^0.5*Gd(ch)^0.5], where Eu(ch), Sm(ch), and Gd(ch) are chondrite normalized according to the chondrite values of McDonough and Sun (1995): Eu(ch)=Eu(ppm)/0.0563; Sm(ch)=Sm(ppm)/0.148; Gd(ch)=Gd(ppm)/0.199",N/A
+Monazite_Geochemistry,Ce_CeStar,"Cerium/cerium (cerium anomaly) =[Ce(ch)]/[La(ch)^0.5*Pr(ch)^0.5], where Ce(ch), La(ch), and Pr(ch) are chondrite normalized according to the chondrite values of McDonough and Sun (1995): Ce(ch)=Ce(ppm)/0.613; La(ch)=La(ppm)/0.237; Pr(ch)=Pr(ppm)/0.0928",N/A

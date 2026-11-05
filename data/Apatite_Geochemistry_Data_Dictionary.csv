@@ -1,0 +1,81 @@
+Table,Field,Description,Units
+Apatite_Geochemistry,Apatite_ID,Numeric sample identification,not applicable
+Apatite_Geochemistry,Spot_ID,"Electron microprobe analysis identification, corresponding to spot labels on apatite BSE images.",not applicable
+Apatite_Geochemistry,Apatite_Name,Name of analysis location,not applicable
+Apatite_Geochemistry,Apatite Group,Assigned apatite group,not applicable
+Apatite_Geochemistry,Apatite_Interp,Interpretation of apatite group,not applicable
+Apatite_Geochemistry,Stock,Mountain Pass stock from which sample was collected,not applicable
+Apatite_Geochemistry,Sample_Num,Sample number corresponding to the numeric portion of sample IDs from Whole Rock Geochemistry,not applicable
+Apatite_Geochemistry,Rock_Type,Lithological description,not applicable
+Apatite_Geochemistry,Intrusive_Type,Type of intrusion sampled,not applicable
+Apatite_Geochemistry,CaO_wtpct,"Calcium, as oxide, collected by electron microprobe",weight percent
+Apatite_Geochemistry,SrO_wtpct,"Strontium, as oxide, collected by electron microprobe; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Apatite_Geochemistry,BaO_wtpct,"Barium, as oxide, collected by electron microprobe; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Apatite_Geochemistry,Na2O_wtpct,"Sodium, as oxide, collected by electron microprobe; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Apatite_Geochemistry,Ce2O3_wtpct,"Cerium, as oxide, collected by electron microprobe; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Apatite_Geochemistry,MnO_wtpct,"Manganese, as oxide, collected by electron microprobe; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Apatite_Geochemistry,P2O5_wtpct,"Phosphorous, as oxide, collected by electron microprobe",weight percent
+Apatite_Geochemistry,SO3_wtpct,"Sulfur, as oxide, collected by electron microprobe; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Apatite_Geochemistry,F_wtpct,"Fluorine, collected by electron microprobe",weight percent
+Apatite_Geochemistry,Cl_wtpct,"Chlorine, collected by electron microprobe; blank indicates determinations less than the detection limit of the analytical method",weight percent
+Apatite_Geochemistry,Total_wtpct,"Sum of analyses from the electron microprobe, given as oxide analyses minus oxygen equivalent of fluorine and chlorine",weight percent
+Apatite_Geochemistry,Ca_apfu,Calculated stoichiometric value of calcium,atoms per formula unit
+Apatite_Geochemistry,Sr_apfu,Calculated stoichiometric value of strontium; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Na_apfu,Calculated stoichiometric value of sodium; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,La_apfu,Calculated stoichiometric value of lanthanum; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Ce_apfu,Calculated stoichiometric value of cerium; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Pr_apfu,Calculated stoichiometric value of praesodymium; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Nd_apfu,Calculated stoichiometric value of neodymium blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Sm_apfu,Calculated stoichiometric value of samarium; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Y_apfu,Calculated stoichiometric value of yttrium; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Mn_apfu,Calculated stoichiometric value of manganese; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Fe_apfu,Calculated stoichiometric value of iron; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Sum_Msite_apfu,Sum of atoms per formula unit for elements that occur in the M-site in apatite,atoms per formula unit
+Apatite_Geochemistry,P_apfu,Calculated stoichiometric value of phosphorous,atoms per formula unit
+Apatite_Geochemistry,Si_apfu,Calculated stoichiometric value of silicon; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,S_apfu,Calculated stoichiometric value of sulfur; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,Sum_Zsite_apfu,Sum of atoms per formula unit for elements that occur in the Z-site in apatite,atoms per formula unit
+Apatite_Geochemistry,F_apfu,Calculated stoichiometric value for fluorine,atoms per formula unit
+Apatite_Geochemistry,Cl_apfu,Calculated stoichiometric value for chlorine; blank indicates analysis used for calculation was below detection limit,atoms per formula unit
+Apatite_Geochemistry,OH_Estimate_apfu,"Estimated stoichiometric value for hydroxyl, determined by the stoichiometric requirements for the X-site in apatite minus the calculated fluorine and chlorine contents; blank indicates analysis contained F greater than the stoichometric value of the site and no hydroxyl was calculated",atoms per formula unit
+Apatite_Geochemistry,Sum_Xsite_apfu,Sum of atoms per formula unit for elements that occur on the X-site in apatite,atoms per formula unit
+Apatite_Geochemistry,Na_ppm,"Sodium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Apatite_Geochemistry,Mg_ppm,"Magnesium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Al_ppm,"Aluminum, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Si_ppm,"Silicon, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Apatite_Geochemistry,P_ppm,"Phosphorous, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Ca_ppm,"Calcium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Ti_ppm,"Titanium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Apatite_Geochemistry,V_ppm,"Vanadium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Cr_ppm,"Chromium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Mn_ppm,"Manganese, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Fe_ppm,"Iron, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method",parts per million
+Apatite_Geochemistry,As_ppm,"Arsenic, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Rb_ppm,"Rubidium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Sr_ppm,"Strontium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Y_ppm,"Yttrium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Zr_ppm,"Zirconium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Nb_ppm,"Niobium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Ba_ppm,"Barium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,La_ppm,"Lanthanum, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Ce_ppm,"Cerium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Pr_ppm,"Praesodymium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Nd_ppm,"Neodymium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Sm_ppm,"Samarium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Eu_ppm,"Europium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Gd_ppm,"Gadolinium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Tb_ppm,"Terbium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Dy_ppm,"Dysprosium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Ho_ppm,"Holmium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Er_ppm,"Erbium, collected by LA-ICP-MS",parts per million
+Apatite_Geochemistry,Tm_ppm,"Thulium, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Yb_ppm,"Ytterbium, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Lu_ppm,"Lutetium, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Hf_ppm,"Hafnium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Ta_ppm,"Tantalum, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,W_ppm,"Tungsten, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Pb_ppm,"Lead, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Th_ppm,"Thorium, collected by LA-ICP-MS; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,U_ppm,"Uranium, collected by LA-ICP-MS; blank indicates determinations less than the detection limit of the analytical method; 0 indicates analyses above detection but rounded to 0 as the nearest integer",parts per million
+Apatite_Geochemistry,Eu_EuStar,"Europium/europium (europium anomaly) =[Eu(ch)]/[Sm(ch)^0.5*Gd(ch)^0.5], where Eu(ch), Sm(ch), and Gd(ch) are chondrite normalized according to the chondrite values of McDonough and Sun (1995): Eu(ch)=Eu(ppm)/0.0563; Sm(ch)=Sm(ppm)/0.148; Gd(ch)=Gd(ppm)/0.199",N/A
+Apatite_Geochemistry,Ce_CeStar,"Cerium/cerium (cerium anomaly) =[Ce(ch)]/[La(ch)^0.5*Pr(ch)^0.5], where Ce(ch), La(ch), and Pr(ch) are chondrite normalized according to the chondrite values of McDonough and Sun (1995): Ce(ch)=Ce(ppm)/0.613; La(ch)=La(ppm)/0.237; Pr(ch)=Pr(ppm)/0.0928",N/A

@@ -28,6 +28,6 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: In the 85 replicate EPMA analyses of reference material 7802 Apatite, does reported errpct match with observed replicate scatter for each element?
+- Data: the file is in data/EMPA_Apatite_Standards.csv, including 85 rows that each representing one repeated EPMA measurement on 7802 Apatite and one row for detection limit, from https://doi.org/10.5066/P1LGUGBG (accessed 2026-11-03)
+- Measured variable: *_wtpct (weight percent) and *_errpct (percent) of Ce, Ca, Sr, Na, P, S, F. (Mn, Cl, Ba are excluded due to too few detections and *_errpct was defined only as "Error of ... analysis, percent")

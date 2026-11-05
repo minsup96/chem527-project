@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Erin K. Benson</origin>
+        <origin>Kathryn E. Watts</origin>
+        <pubdate>20241105</pubdate>
+        <title>Apatite and monazite geochemistry data at Mountain Pass, California, 2024</title>
+        <geoform>images and spreadsheets</geoform>
+        <onlink>https://doi.org/10.5066/P1LGUGBG</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Erin K. Benson</origin>
+            <origin>Kathryn E. Watts</origin>
+            <pubdate>20241101</pubdate>
+            <title>Apatite and Monazite Geochemistry Record Magmatic and Metasomatic Processes in Rare Earth Element Mineralization at Mountain Pass, California</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Economic Geology</sername>
+              <issue>vol. 119, issue 7</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>Society of Economic Geologists, Inc.</publish>
+            </pubinfo>
+            <othercit>ppg. 1611-1642</othercit>
+            <onlink>https://doi.org/10.5382/econgeo.5108</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The dataset includes .csv spreadsheets which provide whole rock geochemical data for the alkaline silicate and carbonatite samples from which apatite and monazite were analyzed, as well as geochemical data collected via electron microprobe and laser ablation ICP-MS for the apatite and monazite mineral grains. Whole rock geochemical data were collected by SGS Labs, except carbonatite samples 84-6-125, 85-1-162, 85-9-157, 85-12-304, and 85-12-317, which were collected by AGAT Labs. The .csv files containing geochemical data are associated with individual data dictionaries that define the columns in each file. Additional .csv files are included summarizing reference material analyses, detection limits, and analytical error for electron microprobe and laser ablation ICP-MS analysis. This data release also includes back-scattered electron (BSE) images of apatite mineral separates in epoxy grain mounts from samples collected in outcrop from alkaline silicate rocks of the Mountain Pass Intrusive Suite, as well as apatite and monazite in thin section in samples of drill core from the Mountain Pass carbonatite (the Sulphide Queen orebody). The zip file Phosphate_Mineral_Images contains all BSE images, organized into separate folders for apatite and monazite with subfolders for each sample. The file name of each photograph correlates to the date the image was taken, the mineral imaged, and the sample, mineral grain, and spot identification. The zip file CL_Images contains all mixed RGB hyperspectral cathodoluminescence images and element maps for Sr, Na, and Ce (apatite) and Ca, Si, and Th (monazite). The file name correlates to the sample number, grain number (as in Phosphate_Mineral_Images), and type of data displayed. Acquisition parameters for element map data are displayed on element map images.</abstract>
+      <purpose>These data can be used to study phosphate occurrences at the Mountain Pass Intrusive Suite, which can be used to trace the magmatic and fluid alteration processes that formed the intrusive bodies.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20211001</begdate>
+          <enddate>20231001</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-115.53680</westbc>
+        <eastbc>-115.48920</eastbc>
+        <northbc>35.48840</northbc>
+        <southbc>35.45260</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>geochemistry</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:65e16150d34e5855ff4ce309</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>California</placekey>
+        <placekey>Mojave</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Erin K Benson</cntper>
+          <cntorg>U.S. Geological Survey, SOUTHWEST REGION</cntorg>
+        </cntperp>
+        <cntpos>Research Geologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>W 904 Riverside</address>
+          <city>Spokane</city>
+          <state>WA</state>
+          <postal>99201</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>509-368-3113</cntvoice>
+        <cntemail>ekbenson@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Heather Lowers assisted with collection of electron microprobe geochemical data and BSE images. Jay Thompson assisted with collection of LA-ICP-MS data.</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Major element geochemistry was found to be within 5% accuracy for major elements and within 10-15% accuracy for most trace elements based on quality control samples run as unknowns alongside samples. Electron microprobe analyses of apatite and monazite were within 5% accuracy for major elements, 10% for minor elements, and 50% for trace elements based on replicate analyses of reference materials throughout data collection. LA-ICP-MS analyses of trace elements in apatite and monazite were within 5% for most elements; elements with low concentrations were typically within 10% based on replicate analyses of reference materials.</attraccr>
+    </attracc>
+    <logic>Data falls within expected ranges. Data has been checked for duplication and omission. This is not a geospatial data release.</logic>
+    <complete>This data represents phosphate mineral and whole rock geochemistry from the Mountain Pass Intrusive Suite.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Sample locations are accurate to approximately 10 feet.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Drill core depths are accurate to approximately 5 feet.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Samples were collected in the field from outcrop and from the MP Materials historic drill core collection in October of 2022.</procdesc>
+        <procdate>20221019</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Apatite was separated from outcrop samples following standard mineral separation procedures and mounted in epoxy rounds. Core samples were made into thin sections.</procdesc>
+        <procdate>20230115</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Core samples containing phosphate minerals as well as the epoxy grain mounts were analyzed via electron microprobe and LA-ICP-MS in March, 2023. Backscattered electron images were collected alongside electron microprobe data.</procdesc>
+        <procdate>20230315</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Hyperspectral cathodoluminescence data is collected from a subset of representative apatite and monazite grains using the xCLent Analysis software package on the JEOL 8530FPlus electron microprobe. Elements maps of Sr, Na, and Ce for apatite, and Ca, Th, and Si for monazite are collected. Acquisition parameters are displayed on each image. For apatite, images resembling visible light color CL images were produced from the hyperspectral data by defining three regions of interest: a region ranging from 590-750 nm (set as red), 495-590 nm (set as green), and 400-495 nm (set as blue) to produce a mixed RGB image. Mixed RBG images for monazite were produced from a region ranging from 290-400 nm (ultraviolet; set as blue), the visible spectrum (400-750 nm; set as green), and the infrared spectrum (750-1000 nm set as red).</procdesc>
+        <procdate>20241031</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Individual images had descriptive information added to image metadata in Adobe Bridge.</procdesc>
+        <procdate>20240228</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>25</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>11</utmzone>
+            <transmer>
+              <sfctrmer>0.9996</sfctrmer>
+              <longcm>-117.0</longcm>
+              <latprjo>0.0</latprjo>
+              <feast>500000.0</feast>
+              <fnorth>0.0</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.6096</absres>
+            <ordres>0.6096</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>NAD83_National_Spatial_Reference_System_2011</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P1LGUGBG</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20241203</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Erin K Benson</cntper>
+          <cntorg>U.S. Geological Survey, SOUTHWEST REGION</cntorg>
+        </cntperp>
+        <cntpos>Research Geologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>W 904 Riverside</address>
+          <city>Spokane</city>
+          <state>WA</state>
+          <postal>99201</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>509-368-3113</cntvoice>
+        <cntemail>ekbenson@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

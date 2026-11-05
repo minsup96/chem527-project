@@ -1,0 +1,60 @@
+Table,Field,Description,Units
+Whole_Rock_AlkalineSilicate_Geochemistry,Sample,Sample Number,not applicable
+Whole_Rock_AlkalineSilicate_Geochemistry,Description,Lithology description of sample,not applicable
+Whole_Rock_AlkalineSilicate_Geochemistry,Latitude,Latitude,decimal degrees
+Whole_Rock_AlkalineSilicate_Geochemistry,Longitude,Longitude,decimal degrees
+Whole_Rock_AlkalineSilicate_Geochemistry,Datum,Datum used for geographic projection,not applicable
+Whole_Rock_AlkalineSilicate_Geochemistry,SiO2_wtpct,"Silicon, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,TiO2_wtpct,"Titanium, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,Al2O3_wtpct,"Aluminum, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,FeO_wtpct,"Iron, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,MnO_wtpct,"Manganese, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,MgO_wtpct,"Magnesium, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,CaO_wtpct,"Calcium, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,BaO_wtpct,"Barium, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,Na2O_wtpct,"Sodium, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,K2O_wtpct,"Potassium, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,P2O5_wtpct,"Phosphorous, as oxide, normalized to 100% with other major elements",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,Unnormalized_sum_wtpct,Original sum of oxides prior to normalization to 100%,weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,LOI_wtpct,Loss on ignition,weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,F_wtpct,Fluorine,weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,Cl_wtpct,Chlorine,weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,CO2_wtpct,"Carbon dioxide, blank indicates determinations less than detection limit of analytical method",weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,H2O_wtpct,Essential and nonessential water,weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,S_wtpct,Sulfur,weight percent
+Whole_Rock_AlkalineSilicate_Geochemistry,Li_ppm,Lithium; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Be_ppm,Beryllium; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,B_ppm,Boron; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Sc_ppm,Scandium; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,V_ppm,Vanadium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Cr_ppm,Chromium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Co_ppm,Cobalt,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Ni_ppm,Nickel,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Cu_ppm,Copper; blank indicates determinations less than the detection limit of the analytical method,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Zn_ppm,Zinc,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Ga_ppm,Gallium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Rb_ppm,Rubidium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Sr_ppm,Strontium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Y_ppm,Yttrium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Zr_ppm,Zirconium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Nb_ppm,Niobium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Cs_ppm,Cesium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,La_ppm,Lanthanum,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Ce_ppm,Cerium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Pr_ppm,Praesodymium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Nd_ppm,Neodymium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Sm_ppm,Samarium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Eu_ppm,Europium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Gd_ppm,Gadolinium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Tb_ppm,Terbium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Dy_ppm,Dysprosium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Ho_ppm,Holmium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Er_ppm,Erbium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Tm_ppm,Thulium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Yb_ppm,Ytterbium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Lu_ppm,Lutetium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Hf_ppm,Hafnium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Ta_ppm,Tantalum,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Pb_ppm,Lead,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,Th_ppm,Thorium,parts per million
+Whole_Rock_AlkalineSilicate_Geochemistry,U_ppm,Uranium,parts per million
