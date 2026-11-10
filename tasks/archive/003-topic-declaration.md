@@ -1,6 +1,6 @@
 # 003: Topic declaration
 
-- **Status:** active
+- **Status:** done
 - **Created:** 2026-11-05
 - **Updated:** 2026-11-05
 - **Due:** 2026-11-08, 11:59 pm
@@ -63,3 +63,4 @@ The Canvas entry is in. Close this task after it is, with the URL you submitted 
 - 2026-11-05: Filled the three lines in `AGENTS.md`, made and ran `topic.ipynb`, and drafted `proposal.md`.
 
 ## Outcome
+https://github.com/minsup96/chem527-project/commit/8bb83b92d980a569f7b2552382635c4c4c40ed1e
