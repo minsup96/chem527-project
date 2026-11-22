@@ -26,7 +26,7 @@ Newest first. Change the link to `archive/NNN-slug.md` when a task moves.
 
 | Number | Task | Status | Due |
 |---|---|---|---|
-| 005 | [Explore the replicates and make a first analysis](005-explore-and-first-analysis.md) | active | none |
+| 005 | [Explore the replicates and make a first analysis](archive/005-explore-and-first-analysis.md) | done | none |
 | 004 | [Load the data and list its problems](archive/004-load-and-clean-data.md) | done | none |
 | 003 | [Topic declaration](archive/003-topic-declaration.md) | done | 2026-11-08 |
 | 002 | [Copy the course environment](archive/002-environment.md) | done | 2026-11-01 |
